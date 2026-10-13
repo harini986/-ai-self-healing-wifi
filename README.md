@@ -1,3 +1,5 @@
+# -ai-self-healing-wifi
+AI-Based Self-Healing Wi-Fi Network Management System
 # WiHeal – AI-Based Self-Healing Wi-Fi Network Management System
 
 WiHeal is a modern, creative, and highly professional network intelligence dashboard frontend built with **React**, **Vite**, and **Tailwind CSS**. It continuously monitors Wi-Fi and router health, detects abnormal conditions (such as high latency spikes, packet loss, weak connectivity, and router bufferbloat), diagnoses root causes via an AI heuristic model, and triggers autonomous self-healing recovery actions.
