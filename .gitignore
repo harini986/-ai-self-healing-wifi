@@ -1,5 +1,8 @@
+backend/venv/
+venv/
+__pycache__/
+*.pyc
+.env
+backend/wifi_monitor.db
 node_modules/
 dist/
-.env
-.env.local
-backend_example/
